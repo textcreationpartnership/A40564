@@ -1,0 +1,257 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Full and True account of the  great battel fought betwixt the  Turks, Hungarian rebels, and Polish army before the city of Presburg with the  glorious victory obtained by the Polish army, under the conduct of Prince Lubomierski, sent from the Duke of Lorrain to the King of Poland and communicated to the Polish envoy in London / translated from the original.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40564</idno>
+            <idno type="STC">Wing F2304</idno>
+            <idno type="STC">ESTC R9575</idno>
+            <idno type="EEBO-CITATION">13744988</idno>
+            <idno type="OCLC">ocm 13744988</idno>
+            <idno type="VID">101697</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40564)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101697)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 454:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Full and True account of the  great battel fought betwixt the  Turks, Hungarian rebels, and Polish army before the city of Presburg with the  glorious victory obtained by the Polish army, under the conduct of Prince Lubomierski, sent from the Duke of Lorrain to the King of Poland and communicated to the Polish envoy in London / translated from the original.</title>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edw. Brewster ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lubomirski, Stanisław Herakliusz, 1642-1702.</term>
+               <term>Charles --  V, --  Duke of Lorraine, 1643-1690.</term>
+               <term>Friedrich Wilhelm, --  Elector of Brandenburg, 1620-1688.</term>
+               <term>Bratislava (Slovakia) --  History --  Siege, 1683.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:101697:1" rendition="simple:additions"/>
+            <p>A Full and True ACCOUNT Of the GREAT BATTEL Fought betwixt the <hi>Turks, Hungarian</hi> Rebels, and <hi>Poliſh</hi> Army, Before the City of Presburg. WITH The Glorious VICTORY obtained by the <hi>Poliſh</hi> Army, under the Conduct of Prince <hi>Lubomierski,</hi> ſent from his Camp.</p>
+            <p>With Two <hi>Latin</hi> Letters, One from the <hi>Empe<g ref="char:EOLhyphen"/>ror,</hi> the other from the Duke of <hi>Lorrain</hi> to the King of <hi>Poland,</hi> and Communicated to the <hi>Poliſh</hi> Envoy in <hi>London.</hi>
+            </p>
+            <p>
+               <hi>Tranſlated from the Original.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Edw. Brewſter</hi> at the <hi>Crane</hi> in St. <hi>Pauls</hi> Church-yard, 1683.</p>
+         </div>
+      </front>
+      <body>
+         <div type="narrative">
+            <pb facs="tcp:101697:2"/>
+            <pb n="3" facs="tcp:101697:2"/>
+            <head>A True and Exact ACCOUNT OF THE DEFEAT OF THE <hi>T<g ref="char:V">Ʋ</g>RKS</hi> and <hi>H<g ref="char:V">Ʋ</g>NGARIANS</hi> BY THE POLISH ARMY, Under the Command of Prince <hi>L<g ref="char:V">Ʋ</g>BOMIERSKI,</hi> now in conjunction with the Duke of <hi>Lorrain. Written out of the very Camp.</hi>
+            </head>
+            <p>NOtice was given to the Duke of <hi>Lorrain,</hi> Generaliſſimo of the Imperial Forces, That Count <hi>Tekely</hi> was drawing with his Army under <hi>Presburgh,</hi> to joyn the <hi>Ottoman</hi> Troops, and that he had Commanded the City, which had ſurrendred it ſelf to him, That they ſhould under the loſs of their Goods, repair with all expedition to the <hi>Bote-Bridg,</hi>
+               <pb n="4" facs="tcp:101697:3"/>
+perhaps to the end he might have Correſpondency with the <hi>Turkiſh</hi> Army under <hi>Vienna.</hi>
+            </p>
+            <p>Since therefore it was altogether neceſſary to prevent this their Communication, the Duke of <hi>Lorrain</hi> moved with his whole Army he had, about the Bridges of <hi>Vienna;</hi> But having ſcarcely been gone Two Miles, notice was given to him, as if Count <hi>Tekeley</hi> was with his Armies paſſing the River <hi>Mark;</hi> for which reaſon the Army, whereof the <hi>Polanders</hi> held the right Wing, proceeded in Battalia to the very <hi>River,</hi> where they alſo had their Nights quarters. The <hi>Hungarian</hi> fore-Troops were burning the Villages at the other ſide of the <hi>River,</hi> and in ſeveral places appeared in ſome ſmall Bo<g ref="char:EOLhyphen"/>dies.</p>
+            <p>The next day about Noon, the Army drew up towards <hi>Presburg,</hi> and paſſed the <hi>River;</hi> the <hi>German</hi> Horſes paſſing above half a Mile higher; but the <hi>Poliſh</hi> Army partly ſwam over with their Horſes; and partly, waded the River. Thus the River being paſ<g ref="char:EOLhyphen"/>ſed, Three hundred of <hi>Hungarian</hi> Horſe-men, under the Command of Colonel <hi>Pelinatsſy,</hi> came forth out of the Wood; againſt whom Prince <hi>Lubomierski</hi> Commanded a Hundred Horſe of <hi>Poliſh</hi> Knights, which were ſeconded by Two Companies; one whereof was of Sieur <hi>Mroczek,</hi> and t'other of Sieur <hi>Kroyets;</hi> and they having met the <hi>Hungarians,</hi> made them quit the Field, purſuing them a whole Mile, till Night overtook them. So that it being impoſſible upon that Day to reach <hi>Presburg,</hi> the Army ſtaid all Night about a Mile from the City, in that ſame poſture as it had Marched in before. That ſame Night Prince <hi>de Croy,</hi> with his Regiment of Dragoons, went towards <hi>Presburg,</hi> for the Recognizance of the paſſages, and of the poſture the City was then in, where he was acquainted, there was 3000 <hi>Hungarians</hi> left for its <hi>ſafe guard.</hi>
+            </p>
+            <p>Next Morning the City would not open the Gates to Prince <hi>de Croy,</hi> when in the <hi>interim</hi> the whole Army drew nearer before <hi>Presburg;</hi> under which, from t'other ſide, at the diſtance of about a good Ordnance-ſhot, the <hi>Turkiſh</hi> and <hi>Hungarian</hi> Armies were ſtanding at their fore-Troops, ſomewhat further drawn out in<g ref="char:EOLhyphen"/>to the Field.</p>
+            <p>Hereafter a Councel of War was call'd; whereof theſe ſenti<g ref="char:EOLhyphen"/>ments were the chiefeſt: That ſince the City had ſhut up their Gates, and the Enemies Armies ſtood ready, neither had they any information about the number of the Enemy, they having convey<g ref="char:EOLhyphen"/>ed ſome hundreds of Men into the Caſtle, which was kept by the Imperial Gariſon, and having cut off the Bridg, ſhould betake themſelves to the above-mentioned <hi>River.</hi> But Prince <hi>Lubomierski</hi>
+               <pb n="5" facs="tcp:101697:3"/>
+and Prince <hi>Lewis</hi> of <hi>Baden</hi> judg'd otherwiſe, That, <hi>viz.</hi> ſince the Army had drawn before the City, and was ſeen by the Enemy, it was not expedient to deny them a Battel; otherwiſe, 'twould be to make the Enemy more ſtubborn and reſolute, to make him think we fear'd him, to give him an occaſion of Purſuing us cloſely, ſince we would not do it to him; to loſe the City, to diſhearten the Caſtle-Gariſon, to afford them Liberty for the Rebuilding of the paſſage over the <hi>Danube;</hi> and by this means, to grant them a Cor<g ref="char:EOLhyphen"/>reſpondency and mutual Intelligence with the Armies under <hi>Vienna.</hi>
+            </p>
+            <p>So that the laſt Reaſons bearing ſway, Two Regiments were left about the City-Walls, and the whole Army ſet in Battalia, upon a Plain under the City. Prince <hi>Lubomirski</hi> did take the Right-Wing, and from about the half of the Field, drew out his <hi>Poliſh</hi> Squadron to the very Banks of the River <hi>Danube;</hi> whereto was added a Re<g ref="char:EOLhyphen"/>giment of Dragoons, under the Command of General <hi>Schultz.</hi> But the Left-Wing, and the Main Body, was managed by the <hi>German</hi> Forces, which did Poſſeſs themſelves of the reſt of the Field, to the Very Mountains. The <hi>Hungarians</hi> with a Troop fell out to Skir<g ref="char:EOLhyphen"/>miſh, and Advanced very near under us; againſt whom, Prince <hi>Lu<g ref="char:EOLhyphen"/>bomirski,</hi> ſent his <hi>Advance-Guards,</hi> to the end they ſhould free the Camp from the Skirmiſhers, themſelves keeping cloſe together. Af<g ref="char:EOLhyphen"/>terwards when the Army was ready to give Battel, Trumpets, Ket<g ref="char:EOLhyphen"/>tle Drums, Shalms, ſounding, the Squadron was rearing towards the Enemies Forces, which preſently begun to Skirmiſh; the Skirmiſhers did not proceed ſo furiouſly, till at length, within the ſpace of ſome Minutes, they begun to retire: Prince <hi>Lubomirski</hi> ſeeing this, deſired the Duke of <hi>Lorrain</hi> to grant him leave for the ſending out of ſome Fore Troops, and Seconding of the ſame with ſome Com<g ref="char:EOLhyphen"/>panies of the <hi>Poliſh</hi> Nobility, in order to his obtaining an Infor<g ref="char:EOLhyphen"/>mation about the ſtrength of the Enemies Forces. As ſoon there<g ref="char:EOLhyphen"/>fore as the Fore Troops had fallen upon the Enemy, being Se<g ref="char:EOLhyphen"/>conded by Sieur <hi>Protskele</hi> a Captain of the Horſe, and by Sieur <hi>Perewitſh,</hi> with ſome <hi>Huſſarian</hi> Companies, the Gentlemen of Prince <hi>Lubomirskies</hi> Court, Sieur <hi>Hilski, Crogoledi,</hi> and Sieur <hi>Soboski</hi> having in the mean time Aſſaulted them from the ſide, they took a No<g ref="char:EOLhyphen"/>table <hi>Turk,</hi> Secretary to Baſſa <hi>Giuli;</hi> by whom having underſtood, That though the <hi>Turkiſh</hi> Forces under the Command of the Baſhaws of <hi>Eger</hi> and <hi>Waradyn</hi> were not inconſiderable, together with theſe Troops that were under Count <hi>Tekely,</hi> whoſe Armies were all in one Body; yet they had ſent away their Field-pieces the Night be<g ref="char:EOLhyphen"/>fore, and had no reſolution to ſtand out a Battel. Prince <hi>Lubo<g ref="char:EOLhyphen"/>mirski</hi> upon this thought ſit to Attack them with all his Forces, and not to grant them time for their Reinforcement. Accordingly for their firſt Recruit, he commanded out the Companies of Sieur <hi>Modrzejefski</hi> the Crown-Hawkier, and the Companies of Sieur <hi>De Niſzewits,</hi> who very timely came to the ſuccour of Sieur <hi>Krotſek,</hi>
+               <pb n="6" facs="tcp:101697:4"/>
+who having Thrice already met, and purſued the Enemy, and be<g ref="char:EOLhyphen"/>haved himſelf dexterouſly, ſhewed a great deal of Valour and Cou<g ref="char:EOLhyphen"/>rage; as having by his own Hand laid upon the Place above Twen<g ref="char:EOLhyphen"/>ty <hi>Turks,</hi> and taken ſome of them alive. Sieur <hi>Modrzejefski</hi> At<g ref="char:EOLhyphen"/>tacqued the Enemy from the other ſide, and Valiantly broke his Spear upon him. Immediately after, the Third Two Companies of Colo<g ref="char:EOLhyphen"/>nel <hi>Groboleski,</hi> and Sieur <hi>Bieleski</hi> being ordered, the latter Fronting his Enemy, brought him to a great deal of Confuſion, who with<g ref="char:EOLhyphen"/>out any further Oppoſition, turn'd filthily his back, and fled. Which Prince <hi>Lubomirski</hi> perceiving, ſent inſtantly the reſt of his Diviſion, and all the <hi>Poliſh</hi> Companies after them; as alſo the Magni<g ref="char:EOLhyphen"/>ficent Lord <hi>Tetwin</hi> Underchamberlain of <hi>Derbia,</hi> together with his Blunderbuſs-Regiment, under the Command of Sieur <hi>Butler</hi> Lieute<g ref="char:EOLhyphen"/>nant Colonel.</p>
+            <p>In this Fight the <hi>Poliſh</hi> Companies did ſo vigorouſly Attaque the <hi>Turks,</hi> that they preſently Cut them off from the Body of the <hi>Hungarians,</hi> who betook themſelves to the Left-ſide towards the Mountains: The <hi>Turkiſh</hi> Forces in the mean time Flying towards the Iſle of <hi>Schuts.</hi>
+            </p>
+            <p>Thus the ſaid Collonel going to Recruit the Fighting <hi>Polanders,</hi> and having immediately with Sieur <hi>Butler,</hi> perceived Two <hi>Hun<g ref="char:EOLhyphen"/>garian</hi> Companies, they did proceed by certain Buſhes (that they might not be diſcovered) to Face the Enemy with a Noble Reſolution. Whereupon, preſently Sieur <hi>Glasnob,</hi> a Captain of the Horſe, and Sieur <hi>Debeli,</hi> Fronted the Enemy; but Lord <hi>Tet<g ref="char:EOLhyphen"/>win</hi> Attacked the Enemy from the one, and Sieur <hi>Butler</hi> from the other ſide, who was preſently Diſperſed, and ſo in Purſuit put to the Sword; till at laſt, the Enemy being Diſmounted, and Flying into the <hi>Vineyards,</hi> made the <hi>Polanders</hi> to leave their Horſes alſo, and to Purſue them thither, where they after the like manner ſevered their Heads from their Bodies.</p>
+            <p>Upon the Place there fell many Thouſands of the <hi>Hungari<g ref="char:EOLhyphen"/>ans;</hi> and for the moſt part in the <hi>Vineyards.</hi> Hence the <hi>Poliſh</hi> Companies having reſumed their Horſes, did with great Fury kill the <hi>Turks,</hi> Purſuing them to the very <hi>Elbow</hi> of <hi>Danubius,</hi> where after the <hi>Turks</hi> had Reinforced themſelves, (as being near their Camp) afterwards ſeeing the <hi>Polanders</hi> to approach, fled further by the ſide of the River <hi>Danube,</hi> having left their whole Camp, wherein many Thouſands of <hi>Turks</hi> were put to Death; beſides them that were taken Alive. Afterwards his Highneſs Prince <hi>Lu<g ref="char:EOLhyphen"/>bomirski</hi> not thinking it convenient to Purſue the Enemy any fur<g ref="char:EOLhyphen"/>ther, ſet up a Standard in their Camp, which became a Prey to the <hi>Poliſh</hi> Army; who then obtain'd a Reward for their Mag<g ref="char:EOLhyphen"/>nanimous
+<pb n="7" facs="tcp:101697:4"/>
+Courage, in Moneys, Clothes, Tents, Horſes, Oxen, Houſ<g ref="char:EOLhyphen"/>hold Goods, and all ſort of Attire, the half of which they did not poſſeſs themſelves of, having had many Hundred of <hi>Oxen,</hi> with Wagons richly loaden with Proviſion, about many Thouſands, and above many more of Sheep; which Cattle after they had driven over the River, they left at <hi>Maydan,</hi> and ſo they fell into the hands of the Imperialiſts.</p>
+            <p>The whole <hi>German</hi> Army, during the time of the Battel, was about a <hi>German</hi> Mile and a half, in a Park, except that two Regi<g ref="char:EOLhyphen"/>ments of Dragoons, under the Command of General <hi>Schultz</hi> and <hi>Stremow,</hi> were Commanded to approach about a Mile nearer; from whence the <hi>Poliſh</hi> Army (God forbid they had ſtood in need of a recruit) could expect but very little ſubſidy. The Servants of the <hi>Poliſh</hi> Nobility fell afterwards to Plundering, in ſo much that it was not poſſible for them to be repulſed, till at laſt Prince <hi>Lubo<g ref="char:EOLhyphen"/>mirski</hi> Commanded that the Camp ſhould be ſet on Fire at three Corners, by which means he aſſwaged the diſorder of the Rab<g ref="char:EOLhyphen"/>ble.</p>
+            <p>This ſo notable a Victory, muſt of neceſſity be totally aſcribed to the <hi>Poliſh</hi> Army; but in particular, to the Conduct of their Superiors, who uſed great moderation in Oppoſing the Ene<g ref="char:EOLhyphen"/>my, and in purſuing him according to occaſion, where the No<g ref="char:EOLhyphen"/>ble Colonel <hi>Grochofski</hi> gained a great deal of Immortal renown.</p>
+            <p>The City on the other ſide, ſeeing the Enemy fled, did again ſurrender it ſelf to the Prince <hi>de Croy,</hi> and delivered thoſe 3000 <hi>Hungarians,</hi> that were put in for their <hi>ſafeguard,</hi> together with the Se<g ref="char:EOLhyphen"/>cretary of Count <hi>Tekeley.</hi>
+            </p>
+            <p>In this Expedition, many <hi>Turks</hi> and <hi>Hungarians</hi> were taken alive, amongſt which, thoſe of the beſt rank being preſerved, the reſt were put to the Sword.</p>
+            <p>That ſame Night the Army reſted upon the Plain at <hi>Presburg,</hi> from which they had repulſed the Enemy, and the next Morning returned to the River <hi>Mark,</hi> for the refreſhment of their Horſes, ſince about <hi>Presburg</hi> there is no Corn, beſides only <hi>Vineyards.</hi>
+            </p>
+            <p>And above all, this muſt be counted the greateſt happineſs the <hi>Poliſh</hi> Army had obtained, That not one amongſt them was ei<g ref="char:EOLhyphen"/>ther taken, kill'd, or wounded; And that the <hi>Turks</hi> did not fix Place
+<pb n="8" facs="tcp:101697:5"/>
+until they came before the <hi>New Caſtles;</hi> And Count <hi>Tekeley,</hi> not be<g ref="char:EOLhyphen"/>fore he came before the <hi>Cappathian</hi>-hill, where they did paſs the Ri<g ref="char:EOLhyphen"/>ver <hi>Waage</hi> all Night long.</p>
+            <p>
+               <hi>This is the True and the Exact Account of that Fight and Expedition.</hi>
+            </p>
+         </div>
+         <div xml:lang="lat" type="letter">
+            <pb n="9" facs="tcp:101697:5"/>
+            <head>COPIA LITERARUM A B IMPERATORE AD SERENISSIMUM REGEM POLONIAE</head>
+            <opener>
+               <salute>Sereniſſime ac Potentiſſime Rex, Frater ac vicine Chariſſime,</salute>
+            </opener>
+            <p>IN aerumnoſa quam Hungarorum Perſidia &amp; Turcarum velo<g ref="char:EOLhyphen"/>ciſſima immanitas, Auſtriae noſtrae inflixit; Literae Serenita<g ref="char:EOLhyphen"/>tis, 18. Auguſti, peramanter nobis ſcriptae, inſigniter nos recrearunt. Etenim relictis omnibus aliis armo<g ref="char:EOLhyphen"/>rum deſtinationibus, Serenitatem veſtram rapto cele<g ref="char:EOLhyphen"/>riter, expedito<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> exercitu ſuo, feſtinatis itineribus pro<g ref="char:EOLhyphen"/>gredi; ut Viennam arctiſſimo preſſam obſidio è fancibus Barbari hoſtis eripiat, perjucundo ſane nuncio intelleximus. Quam grato autem ſynceroque hanc auxiliorum promptitudinem non ex per<g ref="char:EOLhyphen"/>cuſſi tantum Foederis ratione, ſed Serenitatis veſtrae proprio ergo nos fortunaſ<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> noſtras proſpenſionis benevolo affectu provenientem amplectimur. Et quibus hoc in ſalutem totius Reipublicae Chri<g ref="char:EOLhyphen"/>ſtianae redundans beneſicium in poſterum officiorum retortimen<g ref="char:EOLhyphen"/>tis agnituri ſummus, Ablegatum &amp; Conſiliarium magnificum noſtrum
+<pb n="10" facs="tcp:101697:6"/>
+Sacri Romani Imperii Fidelem dilectum, Liberum Baronem de <hi>Sierowa Sierowski</hi> planius Interpretari Juſſimus. Iſpraeterea in man<g ref="char:EOLhyphen"/>datis habet ut quae ad ſtrenuam belli adminiſtrationem &amp; impri<g ref="char:EOLhyphen"/>mis oppugnationem dictae urbis abrumpendam ex uſu preſenti proficua &amp; neceſſaria, cenſuimus Ediſſerat, &amp; ſublimi militari Serenitatis veſtrae prudentiae ſubmittat. Quapropter fraterna ami<g ref="char:EOLhyphen"/>ca<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> ſiducia Serenitatem veſtram obteſtamur, velit Memoratum ablegatum noſtrum in cunctis quae noſtro nomine expoſiturus eſt cum omnimoda ſide audire, tunc quam ingreſſus eſt viam alacriter proſequi. Siquidem hac ſuppetiarum praeſtatione Liberatae aſſertaeque Urbis ſibi cum aeterno nominis decore parare animum<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> noſtrum, Serenitati veſtra pridem auctius devinctum Magis Ma<g ref="char:EOLhyphen"/>giſ<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> Regiae ſuae proſapiae obſtringere valeat, quem in ſinem eidem omnigenae felicitatis cumulum a propoſito nomine vovemus.</p>
+         </div>
+         <div type="letter">
+            <pb n="11" facs="tcp:101697:6"/>
+            <head>A COPY of a LETTER FROM THE EMPEROUR OF GERMANY TO THE KING of Poland.</head>
+            <opener>
+               <salute>Moſt Serene and moſt Potent King, Brother and Deareſt Neighbour,</salute>
+            </opener>
+            <p>IN the midſt of theſe Troubles, which the Perfidiouſneſs of the <hi>Hungarians,</hi> and the ſwifteſt Cruelty of the <hi>Turks</hi> have inflict<g ref="char:EOLhyphen"/>ed upon our <hi>Auſtria,</hi> Your Serenities friendly Letters have af<g ref="char:EOLhyphen"/>ter an eminent ſort refreſhed us.</p>
+            <p>For We have underſtood, by a very pleaſing Meſſage to Us, that Your Serenity, (laying aſide all other Appointments of War) hav<g ref="char:EOLhyphen"/>ing quickly Raiſed and Diſpatched an Army, cometh with all Ex<g ref="char:EOLhyphen"/>pedition for the Deliverance of <hi>Vienna</hi> (oppreſſed by a very narrow Siege) from the Jaws of a barbarous Enemy.</p>
+            <p>But with how grateful and ſincere a Heart We embrace this Rea<g ref="char:EOLhyphen"/>dineſs to Aſſiſt Us, not only proceeding from our Confederacy, but alſo from the benevolous Affection of Your Propenſion towards Us
+<pb n="12" facs="tcp:101697:7"/>
+and Our Fortunes; and by what future Returns of Friendſhip We ſhall acknowledge this Benefit, tending to the Safety of the whole Chriſtian Common-wealth; We have Commanded our Envoy and Privy-Council, the Magnificent, Faithful, and Beloved of the Sacred <hi>Roman</hi> Empire, <hi>Chriſtopher</hi> free Baron <hi>de Zierowa Zierowski,</hi> to expound more plainly to Your Majeſty. Moreover he is Commanded to diſcourſe at large with Your Majeſty, and to ſubmit to Your Serenities ſublime Military Prudence, theſe things which we have judged profitable and neceſſary in this jointure of Affairs, for the Adminiſtration of the War, but more eſpecially for the Raiſing of the above-mentioned Siege, before the City of <hi>Vienna.</hi>
+            </p>
+            <p>Wherefore with that Brotherly and Friendly Confidence of Ours, We beſeech Your Serenity, to give full Credit to whatſoever the ſaid Ambaſſadour is about to declare in Our Name and Behalf; and laſtly, to proſecute your Journey with all ſpeed and alacrity; ſince in Effect, by the Means of theſe Your Subſidies, Your Serenity ſhall purchaſe to Your Self the Glory of Delivering and Aſſerting of the City of <hi>Vienna,</hi> together with the ever-during Honour of Your Name, and ſhall more and more engage Our formerly bound Propenſion towards Your Serenities Perſon, to Your Royal Family, upon which, for this end, We deſire the Propitious Heavens may accumulate all manner of Happineſs, <hi>&amp;c.</hi>
+            </p>
+         </div>
+         <div xml:lang="lat" type="letter">
+            <pb n="13" facs="tcp:101697:7"/>
+            <head>COPIA LITERARUM DUCIS LOTHARINGIAE AD SERENISSIMUM REGEM POLONIAE.</head>
+            <p>SATISFACTURUS deſideratis a veſtrâ Majeſtate referre neceſſum credidi, quemadmodum heri caſtra metatus ſuper Marchiam, circa Angerinam, ex ſlammis &amp; fumo judi<g ref="char:EOLhyphen"/>cavi adeſſe Rebellos incinerantes circumvicinos pagos. Quae cum mihi confirmata fuerint, ex relatione Praefectorum, Principis a Leitenſtein, eorum<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> numerum eſſe ad 400 circiter, dimiſi Sexcentos Polonos, quatenus Rebelles ad terminum praeſixum inſequerentur; Duobus abhinc milliaribus non 400 ſed 4000 inve<g ref="char:EOLhyphen"/>nere. Quos licet in numero longe inferiores aggreſſi ſunt fortiter, at<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> ſugaverunt, redemptis Auſtriacis captivis, praeda Rebellibus recu<g ref="char:EOLhyphen"/>perata, eorum occiſis uſque ad tria millia, aliquot centenis equorum Hungarorum, cum aliquot vexillis, ad caſtra haec Caeſarea reductis, Informatus circa noctem de numero hoſtium, Accurreram
+<pb n="14" facs="tcp:101697:8"/>
+cum cattafracto equite, aſſiſtendi ergo Polonis verum pugna jam ſinitâ ad caſtra revertentes inveni, id<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> mirum fuit, quod licet a tergo &amp; a fronte habuerunt Rebelles, Indefeſſa eorum virtus talls fuit ut numero nec ceſſerint nec unum hominem perdiderint, ubi Latius intelliget ex duce Lubomerski. Mihi ſufficit veſtris Majeſtatis Laudare actionem, inclitae Nationes innatum ardorem, &amp; in omni occaſione Generoſitatem. Intelligo ex Literis Praefecti Poſſomieres, Tartaras qui uſ<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> ad numerum 15000 in opido Kitenſi caſtra<g ref="char:EOLhyphen"/>mentabantur, poſt tentatum inutiliter ad has partes tranſitu, Per diverſos in Inſulae Schutenſis Danubii, ramos per Aterburgum ad pontum Strigonienſem deſcendiſſe. Ideo<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> non gravabitur veſtra Majeſtas (uti ſpero) ſi heſternas inſtantias renovem pro prae<g ref="char:EOLhyphen"/>mittendis copiis Magnifici Dom. Sieniuski &amp; Generoſi Dom. La<g ref="char:EOLhyphen"/>ſinski, &amp; accelerando motu ſuo regio pro liberandâ Viennâ ad incrementum Gloriae Majeſtatis veſtrae cui omnia proſpera Devovio.</p>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:101697:8"/>
+            <head>A COPY of a LETTER FROM THE DUKE OF LORAIN To the Moſt Serene KING of Poland.</head>
+            <p>I Being deſirous to ſatisfie your Majeſties deſire, I found it neceſ<g ref="char:EOLhyphen"/>ſary, <hi>viz.</hi> having fixed my Tents upon <hi>Mark,</hi> about <hi>Angerin,</hi> I diſcerned by the Flames and Smoak, that the Rebels were at hand, burning the Neighbouring Villages into Aſhes. Of the truth of which things I being aſſured, by the Account I had from the Go<g ref="char:EOLhyphen"/>vernours, and the Prince <hi>Leitenſten,</hi> and that their Number amount<g ref="char:EOLhyphen"/>ed to about 400, I diſpatched away 600 <hi>Polands</hi> in purſuit of the Rebels at the place prefixed; About two Miles from this they found their Number not to be 400 but 4000. Whom they aſſailed (tho' they were far fewer in Number) Valiantly, and put them to flight, together with the Redemption of the <hi>Auſtrian</hi> Captives, beſides the Spoil recovered of the Rebels, three thouſand of them being kill'd upon the place, ſome hundreds of the <hi>Hungarians</hi> Horſes, with ſome Banners reduced to the Imperial Tents. I being informed about night concerning the Number of Enemies, haſtened thither with a
+<pb n="16" facs="tcp:101697:9"/>
+Company of Horſemen in Armour, for the Aſſiſtance of the <hi>Polan<g ref="char:EOLhyphen"/>ders.</hi> But the Battel being already ended, I found them returning to their Tents; And this was remarkable, that though both behind and before they had the Rebels, their indefatigable Valour was ſuch, that they neither yielded to their Number, nor loſt any men; theſe things ſhall be more amply expounded to you by General <hi>Lubo<g ref="char:EOLhyphen"/>mierski</hi> It ſhall ſuffice for my part to applaud to Your Majeſty the Activity, the Natural Affection, and the Generoſity of the Nation upon all occaſions. I underſtand by Letters from Governour <hi>Poſſomiers,</hi> that the <hi>Tartarians,</hi> about the Number of 15000, have fixed their abode in the Town of <hi>Keiten,</hi> after that they found their Paſſage to theſe Parts difficult and unprofitable, and that they came down upon <hi>Danubeus,</hi> near the Iſland of <hi>Schuten,</hi> by <hi>Aterburg,</hi> towards the <hi>Strigonian</hi> Sea. Therefore I hope Your Majeſty will not be diſplea<g ref="char:EOLhyphen"/>ſed, if I renew my yeſterdays Inſtance for the ſending forth of the Forces of the Magnificent Sir <hi>Sieniawski,</hi> and likewiſe thoſe of the Generous <hi>Laſinski,</hi> and alſo for Your Majeſties haſtening your Jour<g ref="char:EOLhyphen"/>ney for the Deliverance of <hi>Vienna,</hi> to perpetual increaſe of Your Ma<g ref="char:EOLhyphen"/>jeſties Glory, to whom I pray for all Happineſs, <hi>&amp;c.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
